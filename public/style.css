@@ -1,0 +1,15 @@
+b {
+    color: #f43827;
+    font-weight: bold;
+    background: white;
+    border-style: solid;
+    min-width: 2em;
+    text-align: center;
+    line-height: .75em;
+    border-radius: 999px;
+    padding: .5em;
+    position: absolute;
+    right: -8%;
+    font-size: 14px;
+    top: -12%;
+}
